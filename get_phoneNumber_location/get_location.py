@@ -11,7 +11,7 @@ location_dict = {}
 def get_phone_location(phone):
     url = 'http://apis.baidu.com/apistore/mobilenumber/mobilenumber?phone=%s'%(phone)
     req = urllib2.Request(url)
-    req.add_header("apikey", "986006f8e42fc87cad593060df2bc347")
+    req.add_header("apikey", "your apikey")
     resp = urllib2.urlopen(req)
     content = json.loads(resp.read())
     # print content
