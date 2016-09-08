@@ -10,7 +10,7 @@ from email.header import Header
 
 mail_host="smtp.yeah.net"  #设置服务器
 mail_user="augusteyy@yeah.net"    #用户名
-mail_pass="dahaiwei424"   #口令 
+mail_pass="******"   #口令 
 mail_postfix = '163.com'
 sender = 'augusteyy@yeah.net'
 receivers = ['420793534@qq.com']
