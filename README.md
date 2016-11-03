@@ -1,2 +1,2 @@
-<h3>some small scripts</h3>
+<h3>Some small scripts</h3>
 version:1.x
